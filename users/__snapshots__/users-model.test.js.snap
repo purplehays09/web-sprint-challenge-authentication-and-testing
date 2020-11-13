@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`users model findById can find a user by Id 1`] = `
+Object {
+  "id": 1,
+  "password": "guest",
+  "username": "Doug",
+}
+`;
